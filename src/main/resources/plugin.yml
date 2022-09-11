@@ -1,0 +1,10 @@
+name: HomeSpawn
+version: '${project.version}'
+main: com.github.tanokun.homespawn.HomeSpawn
+api-version: 1.16
+
+commands:
+  spawn:
+    description: 設定したスポーン位置にテレポートします
+  setspawn:
+    description: 1つだけスポーン位置を設定します
